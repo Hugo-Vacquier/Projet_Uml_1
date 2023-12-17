@@ -24,6 +24,6 @@ OUTILS UTILISES
 Pour réaliser ce projet nous avons tout d'abord utilisé "LucidChart" et "Star_UML" pour réaliser l'ensemble des diagrammes de notre projet. Puis nous sommes passés sur "Modélio" pour réaliser le diagramme de classe et générer le squelette java par la suite. 
 Pour modifier le squelette Java nous sommes passés par Notepadd++ car nous avons rencontrés des difficultés avec l'outil Modélio qui ne fournissait pas l'entiereté du squelette.
 
-Signé : Allue Luc - Vacquier Hugo - Petrelluzzi Iannis - Boyer Lucas.
+Signé : Allue Luc - Vacquier Hugo - Petrelluzzi Iannis - Tauleigne Quentin.
 
 
