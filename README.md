@@ -16,6 +16,7 @@ DEPOT GITHUB
 - Diagramme d'activité
 - Diagramme d'état de transition
 - Diagramme de séquence
+- Diagramme de classe
 
 3/ Pour finir un cahier des charges est présent dans le dépot, il contient l'ensemble des analyses et l'étude que nous avons fais sur le sujet du projet.
 
